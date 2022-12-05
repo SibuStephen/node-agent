@@ -28,6 +28,6 @@
   "dependencies": {
     "gc-stats": "^1.0.0",
     "microtime": "^2.0.0",
-    "pouchdb": "^5.3.0"
+    "pouchdb": "^6.0.1"
   }
 }
